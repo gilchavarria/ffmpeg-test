@@ -19,12 +19,9 @@ function App() {
       <h1>FFMPEG Test</h1>
       <div className="card">
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Test site is set up with GitHub and deployed to Netlify.
         </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
     </>
   )
 }
